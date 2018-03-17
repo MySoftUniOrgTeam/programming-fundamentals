@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\bin\Debug\netcoreapp1.1\Miles To Kilometres.deps.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\bin\Debug\netcoreapp1.1\Miles To Kilometres.runtimeconfig.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\bin\Debug\netcoreapp1.1\Miles To Kilometres.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\bin\Debug\netcoreapp1.1\Miles To Kilometres.dll
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\bin\Debug\netcoreapp1.1\Miles To Kilometres.pdb
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\obj\Debug\netcoreapp1.1\Miles To Kilometres.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\obj\Debug\netcoreapp1.1\Miles To Kilometres.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\obj\Debug\netcoreapp1.1\Miles To Kilometres.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\obj\Debug\netcoreapp1.1\Miles To Kilometres.dll
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Miles To Kilometres\Miles To Kilometres\obj\Debug\netcoreapp1.1\Miles To Kilometres.pdb
