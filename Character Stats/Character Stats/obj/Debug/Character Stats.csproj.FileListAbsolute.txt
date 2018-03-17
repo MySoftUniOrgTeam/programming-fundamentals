@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\bin\Debug\Character Stats.exe.config
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\bin\Debug\Character Stats.exe
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\bin\Debug\Character Stats.pdb
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\obj\Debug\Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\obj\Debug\Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\obj\Debug\Character Stats.exe
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Character Stats\Character Stats\obj\Debug\Character Stats.pdb
