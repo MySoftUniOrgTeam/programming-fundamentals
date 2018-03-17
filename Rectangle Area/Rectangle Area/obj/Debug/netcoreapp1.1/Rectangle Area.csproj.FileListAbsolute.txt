@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\bin\Debug\netcoreapp1.1\Rectangle Area.deps.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\bin\Debug\netcoreapp1.1\Rectangle Area.runtimeconfig.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\bin\Debug\netcoreapp1.1\Rectangle Area.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\bin\Debug\netcoreapp1.1\Rectangle Area.dll
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\bin\Debug\netcoreapp1.1\Rectangle Area.pdb
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\obj\Debug\netcoreapp1.1\Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\obj\Debug\netcoreapp1.1\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\obj\Debug\netcoreapp1.1\Rectangle Area.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\obj\Debug\netcoreapp1.1\Rectangle Area.dll
+C:\Users\User\Desktop\Programming Fundamentals\23.01.2018\Rectangle Area\Rectangle Area\obj\Debug\netcoreapp1.1\Rectangle Area.pdb
