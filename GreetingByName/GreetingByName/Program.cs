@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GreetingByName
 {
-    class Program
+    class Program //This is a program for greentings by name!
     {
         static void Main(string[] args)
         {
