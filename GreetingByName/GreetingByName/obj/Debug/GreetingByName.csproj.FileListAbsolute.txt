@@ -1,0 +1,6 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe.config
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\bin\Debug\GreetingByName.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\obj\Debug\GreetingByName.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\C# AGAIN\GreetingByName\GreetingByName\obj\Debug\GreetingByName.pdb
