@@ -6,12 +6,12 @@ namespace Debit_Card_Number
     {
         static void Main(string[] args)
         {
-            var First = int.Parse(Console.ReadLine()); // read the input 
-            var Second = int.Parse(Console.ReadLine());
-            var Third = int.Parse(Console.ReadLine());
-            var Forth = int.Parse(Console.ReadLine());
+            int First = int.Parse(Console.ReadLine()); // read the input 
+            int Second = int.Parse(Console.ReadLine());
+            int Third = int.Parse(Console.ReadLine());
+            int Forth = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("{0:d4} {1:d4} {2:d4} {3:d4}", First, Second, Third, Forth); // out the result 
+            Console.WriteLine($"{First:d4} {Second:d4} {Third:d4} {Forth:d4}"); // out the result ; I'll be used interpolation !
         }
     }
 }
